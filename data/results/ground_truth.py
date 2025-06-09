@@ -13,7 +13,7 @@ import json
 # 标准检测结果字典
 GROUND_TRUTH = {}
 
-def load_ground_truth(file_path='图片对应输出结果.txt'):
+def load_ground_truth(file_path='xxx.txt')://自行修改图片输出结果的文件名称
     """
     加载标准检测结果
     
